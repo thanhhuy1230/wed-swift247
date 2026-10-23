@@ -1,0 +1,462 @@
+{
+ "info": {
+  "tagline": "Express delivery nationwide",
+  "seoDesc": "Swift247 – express and same-day delivery nationwide 24/7. Track orders, estimate costs by address and grab delivery vouchers.",
+  "address": "7th Floor, Vietjet Plaza, 60A Truong Son, Tan Binh, Ho Chi Minh City, Vietnam",
+  "hours": "Open 24/7",
+  "bookingUrl": "https://example.vn/dat-hang",
+  "bookingLabel": "BOOK A DELIVERY",
+  "loginUrl": "https://example.vn/dang-nhap",
+  "trackUrl": "https://example.vn/tra-cuu",
+  "license": "Business registration no. 0000000000 – issued 01/01/2020 | Issued by: Department of Planning and Investment of Ho Chi Minh City",
+  "servicesTitle": "Our services",
+  "stepsTitle": "Ship with us",
+  "appTitle": "Download the app now",
+  "appText": "Book deliveries, track your parcel's journey and enjoy exclusive offers in the app.",
+  "videoTitle": "Introduction videos",
+  "reviewsTitle": "What our customers say",
+  "newsTitle": "Latest news",
+  "partnersTitle": "Partners",
+  "calcTitle": "Quick shipping calculator",
+  "calcNote": "* Reference price only; the actual fee is shown when you place your order.",
+  "faqTitle": "Frequently asked questions",
+  "statsTitle": "",
+  "contactTitle": "Get a consultation",
+  "contactText": "Leave your details and our team will contact you with advice on the right service and a tailored quote.",
+  "announce": "",
+  "announceUrl": "",
+  "stepsImg": "",
+  "voucherTitle": "Offers & vouchers"
+ },
+ "menu": [
+  {
+   "label": "About us",
+   "href": "/#about",
+   "children": []
+  },
+  {
+   "label": "Services",
+   "href": "/#services",
+   "children": [
+    {
+     "label": "Service information",
+     "href": "/p/service-information"
+    },
+    {
+     "label": "Domestic express delivery",
+     "href": "/p/domestic-express"
+    },
+    {
+     "label": "International express delivery",
+     "href": "/p/international-express"
+    }
+   ]
+  },
+  {
+   "label": "Offers",
+   "href": "/#voucher",
+   "children": []
+  },
+  {
+   "label": "Pricing",
+   "href": "/#calc",
+   "children": []
+  },
+  {
+   "label": "Videos",
+   "href": "/#videos",
+   "children": []
+  },
+  {
+   "label": "News",
+   "href": "/news",
+   "children": []
+  },
+  {
+   "label": "Contact",
+   "href": "/#contact",
+   "children": []
+  }
+ ],
+ "banners": [
+  {
+   "kicker": "Nationwide express delivery 24/7",
+   "title": "Urgent parcels delivered within hours",
+   "text": "Swift247 picks up at your door in 30–60 minutes, delivers in under 6 hours in the city and within 24 hours to all 63 provinces.",
+   "points": "Under-6-hour express\nAll 63 provinces covered\nLive tracking",
+   "btn": "",
+   "btnHref": "",
+   "btn2": "See rates",
+   "btn2Href": "/#calc",
+   "imgs": "/banner/home-hero.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 express delivery network across Vietnam",
+   "video": ""
+  },
+  {
+   "kicker": "Business solutions",
+   "title": "One delivery partner for every order",
+   "text": "Volume-based rates, clear monthly reconciliation and a dedicated order account for shops and businesses.",
+   "points": "Volume pricing\nTransparent reconciliation\n24/7 support",
+   "btn": "Request a consultation",
+   "btnHref": "/#contact",
+   "btn2": "Our services",
+   "btn2Href": "/#services",
+   "imgs": "/banner/warehouse.svg\n/banner/truck-highway.svg",
+   "alt": "Swift247 warehouse and delivery trucks",
+   "video": ""
+  }
+ ],
+ "hero": [
+  {
+   "kicker": "Year-end delivery offer",
+   "title": "100k off your first express order",
+   "big": "100k",
+   "code": "SWIFT100K",
+   "expiry": "31/12/2026",
+   "terms": "New customers ordering in the app, orders from 150,000 VND.",
+   "btn": "Get the app to use the code",
+   "btnHref": "/#app",
+   "imgs": "/banner/gifts-voucher.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 100k express delivery voucher",
+   "video": "",
+   "detail": "Enter SWIFT100K at checkout in the Swift247 app\nFirst order of a new account only\nMinimum order value 150,000 VND (excluding surcharges)\nCannot be combined with other codes",
+   "start": ""
+  },
+  {
+   "kicker": "SUPERSWIFT",
+   "title": "4-hour in-city delivery – 30% off",
+   "big": "-30%",
+   "code": "SUPER4H",
+   "expiry": "30/11/2026",
+   "terms": "Super express within one province, up to 50,000 VND per order.",
+   "btn": "Book a delivery now",
+   "btnHref": "/#calc",
+   "imgs": "/banner/timer-speed.svg\n/banner/courier-road.svg",
+   "alt": "Swift247 4-hour express delivery offer",
+   "video": "",
+   "detail": "Valid for in-province Super Express service\n30% off, up to 50,000 VND per order\nUp to 5 uses per account during the campaign\nValid on the website and the app",
+   "start": ""
+  },
+  {
+   "kicker": "Business customers",
+   "title": "15% off for 20+ parcels a month",
+   "big": "-15%",
+   "code": "BIZ15",
+   "start": "01/10/2026",
+   "expiry": "31/12/2026",
+   "terms": "For business accounts using Express and Economy Express services.",
+   "detail": "Applies when monthly volume reaches 20 parcels or more\nDiscount is deducted on the month-end statement\nCan be combined with contract rates\nCall the hotline to activate it for your account",
+   "btn": "Request a consultation",
+   "btnHref": "/#contact",
+   "imgs": "/banner/warehouse.svg",
+   "alt": "Business delivery offer",
+   "video": ""
+  },
+  {
+   "kicker": "Weekend express",
+   "title": "Free door pickup on Saturdays and Sundays",
+   "big": "0₫",
+   "code": "WEEKEND0",
+   "start": "",
+   "expiry": "30/11/2026",
+   "terms": "Free pickup for every Super Express and Express order placed on weekends.",
+   "detail": "For orders placed 7:00–20:00 on Saturday and Sunday\nNo pickup surcharge in the city, including remote areas within 20 km\nNo limit on orders per account",
+   "btn": "Book a delivery",
+   "btnHref": "",
+   "imgs": "/banner/courier-road.svg",
+   "alt": "Free weekend pickup",
+   "video": "",
+   "hideHero": "1"
+  },
+  {
+   "kicker": "International shipping",
+   "title": "200k off your first international shipment",
+   "big": "200k",
+   "code": "GLOBAL200",
+   "start": "",
+   "expiry": "20/10/2026",
+   "terms": "For international express shipments from 2 kg with a fee from 1,000,000 VND.",
+   "detail": "Valid to Japan, Korea, Singapore and Taiwan\nOne use per customer\nFree customs declaration support for shipments using the code",
+   "btn": "International service",
+   "btnHref": "/p/chuyen-phat-nhanh-quoc-te",
+   "imgs": "/banner/plane-clouds.svg",
+   "alt": "International express offer",
+   "video": "",
+   "hideHero": "1"
+  }
+ ],
+ "services": [
+  {
+   "icon": "Timer",
+   "title": "Super express (<6h)",
+   "href": "",
+   "desc": "Under 6 hours – ideal for documents, files and papers that are extremely urgent.",
+   "imgs": "/banner/courier-road.svg\n/banner/timer-speed.svg",
+   "alt": "Super express under 6 hours",
+   "eta": "Under 6 hours",
+   "points": "Pickup in 30–60 minutes\nPriority for urgent documents",
+   "btn": "Book Super Express",
+   "detail": "Super express is Swift247's fastest service, delivering within 6 hours of pickup. It is ideal for documents, tender files, contracts, legal papers or small parcels that must arrive the same day.\nA courier collects your item within 30–60 minutes, the order is handled with priority and goes straight to the recipient with minimal transfers. Track the journey in real time in the app and get notified as soon as it is delivered."
+  },
+  {
+   "icon": "Wallet",
+   "title": "Express (<24h)",
+   "href": "",
+   "desc": "Delivered within 24 hours – ideal for goods and documents that must arrive by the next day.",
+   "imgs": "/banner/plane-clouds.svg\n/banner/city-dusk.svg",
+   "alt": "Express 24 hours",
+   "eta": "Under 24 hours",
+   "points": "Delivered next day\nAll 63 provinces",
+   "btn": "Book Express",
+   "detail": "Express balances speed and cost: goods and documents are delivered within 24 hours, reaching the recipient the next day nationwide.\nOrders are picked up at your door, packed and moved through Swift247's fast delivery network and partners, with status updates in the app and on the tracking page."
+  },
+  {
+   "icon": "Boxes",
+   "title": "Economy express (24-48h)",
+   "href": "",
+   "desc": "Delivered within 24-48 hours at the best rate, for goods that are not too urgent.",
+   "imgs": "/banner/truck-highway.svg\n/banner/warehouse.svg",
+   "alt": "Economy express 24-48 hours",
+   "eta": "24 – 48 hours",
+   "points": "Lowest rates\nIdeal for bulk shipments",
+   "btn": "Book Economy",
+   "detail": "Economy express delivers in 24–48 hours at the best rate, for goods that are not urgent, bulk orders or regular shipments.\nIt still includes door-to-door pickup, cash on delivery (COD) and transparent reconciliation, helping shops and businesses save on shipping while keeping delivery times reliable."
+  },
+  {
+   "icon": "Store",
+   "title": "Business agents",
+   "href": "/#contact",
+   "desc": "Delivery solutions for shops and businesses: volume-based rates and clear debt reconciliation.",
+   "imgs": "/banner/storefront.svg\n/banner/warehouse.svg",
+   "alt": "Swift247 business agents",
+   "eta": "By contract",
+   "points": "Volume pricing\nMonthly reconciliation",
+   "btn": "Request a consultation",
+   "detail": "The Business agent programme is for shops, online sellers and companies that ship regularly. Rates are based on volume – the more you ship, the more you save.\nSwift247 provides a dedicated order management account, clear monthly reconciliation, a personal account manager and API integration. Leave your details for a tailored consultation."
+  }
+ ],
+ "steps": [
+  {
+   "title": "Step 1",
+   "text": "Sign up or log in to your account."
+  },
+  {
+   "title": "Step 2",
+   "text": "Choose one of our 4 services."
+  },
+  {
+   "title": "Step 3",
+   "text": "Tap continue and complete the remaining steps."
+  }
+ ],
+ "videos": [
+  {
+   "title": "How to book a flight in the Vietjet Air app",
+   "url": "https://www.youtube.com/shorts/RnLvMLPpsjA",
+   "desc": "Quick steps for booking a ticket in the Vietjet Air mobile app (short video).",
+   "date": ""
+  },
+  {
+   "title": "How to book a ticket on the Vietjet Air website",
+   "url": "https://www.youtube.com/watch?v=6CBfogrSeWQ",
+   "desc": "Booking on vietjetair.com with the new website layout: choose a flight, enter details and pay.",
+   "date": ""
+  },
+  {
+   "title": "Online check-in for Vietjet Air flights on your phone",
+   "url": "https://www.youtube.com/watch?v=r4LD2N06PKo",
+   "desc": "Check in online from your phone to save time and skip the queue at the airport.",
+   "date": ""
+  },
+  {
+   "title": "First time flying with Vietjet: a complete guide",
+   "url": "https://www.youtube.com/watch?v=6nd6g4O0XgA",
+   "desc": "The rules and procedures to know before your first Vietjet flight.",
+   "date": ""
+  },
+  {
+   "title": "VietJet Air online check-in step by step (2026)",
+   "url": "https://www.youtube.com/watch?v=FWMbFe9I7lY",
+   "desc": "An updated 2026 guide: complete online check-in and get your boarding pass.",
+   "date": ""
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Customer A",
+   "date": "3 Feb 2026",
+   "text": "Very fast delivery with no price hikes and great offers throughout.\nI will keep using the service.",
+   "img": ""
+  },
+  {
+   "name": "Customer B",
+   "date": "10 Mar 2026",
+   "text": "Tracking the journey is so convenient, and the driver was very friendly.",
+   "img": ""
+  }
+ ],
+ "partners": [
+  {
+   "name": "HDBank",
+   "logo": ""
+  },
+  {
+   "name": "Vietjet Air",
+   "logo": ""
+  },
+  {
+   "name": "Grab",
+   "logo": ""
+  },
+  {
+   "name": "EMS",
+   "logo": ""
+  },
+  {
+   "name": "AhaMove",
+   "logo": ""
+  }
+ ],
+ "footerLinks": [
+  {
+   "label": "Pricing",
+   "href": "/#calc"
+  },
+  {
+   "label": "Shipping process",
+   "href": "/p/shipping-process"
+  },
+  {
+   "label": "Prohibited items",
+   "href": "/p/prohibited-items"
+  },
+  {
+   "label": "Compensation policy",
+   "href": "/p/compensation-policy"
+  },
+  {
+   "label": "Terms of use",
+   "href": "/p/terms-of-use"
+  },
+  {
+   "label": "Privacy policy",
+   "href": "/p/privacy-policy"
+  },
+  {
+   "label": "Frequently asked questions",
+   "href": "/cau-hoi-thuong-gap"
+  }
+ ],
+ "stats": [
+  {
+   "icon": "Package",
+   "num": "2000000",
+   "suffix": "+",
+   "label": "Orders delivered"
+  },
+  {
+   "icon": "Users",
+   "num": "150000",
+   "suffix": "+",
+   "label": "Trusted customers"
+  },
+  {
+   "icon": "Globe",
+   "num": "63",
+   "suffix": "",
+   "label": "Provinces covered"
+  },
+  {
+   "icon": "Clock",
+   "num": "24",
+   "suffix": "/7",
+   "label": "Round-the-clock support"
+  }
+ ],
+ "rates": [
+  {
+   "name": "Super express (<6h)",
+   "base": "45000",
+   "perKg": "12000",
+   "eta": "Delivered within 6 hours"
+  },
+  {
+   "name": "Express (<24h)",
+   "base": "32000",
+   "perKg": "9000",
+   "eta": "Delivered within 24 hours"
+  },
+  {
+   "name": "Economy express (24-48h)",
+   "base": "25000",
+   "perKg": "6000",
+   "eta": "Delivered within 24-48 hours"
+  }
+ ],
+ "faq": [
+  {
+   "q": "How do I track my order?",
+   "a": "Enter your order code in the \"Track your order\" box at the top of the home page."
+  },
+  {
+   "q": "How long does delivery take?",
+   "a": "It depends on the service: under 6 hours, under 24 hours, or 24-48 hours."
+  },
+  {
+   "q": "Which items cannot be shipped?",
+   "a": "Please see \"Prohibited items\" in the footer."
+  }
+ ],
+ "modes": [
+  {
+   "icon": "DoorOpen",
+   "title": "Door to Door",
+   "text": "Pick-up at home, delivered to the door.",
+   "detail": "A courier collects from your door and hands the parcel directly to the recipient – no trip to a post office.",
+   "points": "Best for: urgent parcels, documents, busy customers\nPick-up within 30–60 minutes in city areas\nLive courier tracking"
+  },
+  {
+   "icon": "Home",
+   "title": "Door to Point",
+   "text": "Pick-up at home, collect at a post office.",
+   "detail": "A courier collects from your door; the recipient picks the parcel up at the nearest post office.",
+   "points": "Best for: recipients who are often out or want to choose a time\nCheaper than door delivery\nHeld free at the post office for up to 3 days"
+  },
+  {
+   "icon": "Route",
+   "title": "Point to Point",
+   "text": "Drop at a post office, collect at a post office.",
+   "detail": "Drop the parcel at a post office; the recipient collects it at the destination office.",
+   "points": "Best for: shops sending in bulk, non-urgent parcels\nThe lowest price of the four options\nPacking and weighing at the counter"
+  },
+  {
+   "icon": "MapPin",
+   "title": "Point to Door",
+   "text": "Drop at a post office, delivered to the door.",
+   "detail": "Drop the parcel at a post office and Swift247 delivers it to the recipient's door.",
+   "points": "Best for: gifts, sending on your way past an office\nNo waiting for a pick-up\nHand delivery with cash-on-delivery support"
+  }
+ ],
+ "postCats": [
+  {
+   "key": "van-chuyen",
+   "name": "Shipping news",
+   "desc": "News about Swift247 services, network and delivery operations."
+  },
+  {
+   "key": "huong-dan",
+   "name": "Guides",
+   "desc": "How to ship, pack, track and use the Swift247 app."
+  },
+  {
+   "key": "khuyen-mai",
+   "name": "Promotions",
+   "desc": "Discount codes, vouchers and express delivery offers."
+  },
+  {
+   "key": "cong-ty",
+   "name": "Company news",
+   "desc": "Swift247 company updates, new offices and events."
+  }
+ ]
+}

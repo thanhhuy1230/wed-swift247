@@ -1,0 +1,635 @@
+{
+ "info": {
+  "name": "Swift247",
+  "tagline": "Giao hàng hỏa tốc toàn quốc",
+  "seoDesc": "Swift247 – giao hàng hỏa tốc, chuyển phát nhanh toàn quốc 24/7: siêu hỏa tốc dưới 6h, hỏa tốc 24h. Tra cứu đơn, tính cước theo địa chỉ và nhận voucher ưu đãi.",
+  "logo": "/brand/swift247-logo.svg",
+  "ogImage": "/brand/og-swift247.png",
+  "gaId": "",
+  "hotline": "1900 2727 47",
+  "email": "cskh@example.vn",
+  "address": "Tầng 7, Tòa nhà Vietjet Plaza, 60A Trường Sơn, Tân Bình, TP. Hồ Chí Minh",
+  "hours": "Giờ làm việc 24/7",
+  "bookingUrl": "https://example.vn/dat-hang",
+  "bookingLabel": "ĐẶT GIAO HÀNG",
+  "loginUrl": "https://example.vn/dang-nhap",
+  "trackUrl": "https://example.vn/tra-cuu",
+  "colorP": "#a82a8a",
+  "colorS": "#e8553d",
+  "facebook": "https://facebook.com",
+  "instagram": "https://instagram.com",
+  "twitter": "https://twitter.com",
+  "googlePlay": "https://play.google.com",
+  "appStore": "https://apple.com/app-store",
+  "qr": "",
+  "license": "Giấy CNĐKDN: 0000000000 - cấp ngày 01/01/2020 | Cơ quan cấp: Sở Kế hoạch và Đầu tư TP. Hồ Chí Minh",
+  "servicesTitle": "Dịch vụ của chúng tôi",
+  "stepsTitle": "Đặt giao hàng với chúng tôi",
+  "appTitle": "Tải ứng dụng ngay",
+  "appText": "Đặt hàng, theo dõi hành trình và nhận ưu đãi độc quyền trên ứng dụng.",
+  "videoTitle": "Video giới thiệu",
+  "reviewsTitle": "Nhận xét của khách hàng",
+  "newsTitle": "Tin tức mới nhất",
+  "partnersTitle": "Đối tác",
+  "calcTitle": "Tính cước phí nhanh",
+  "calcNote": "* Giá tham khảo, cước thực tế hiển thị khi đặt hàng.",
+  "faqTitle": "Câu hỏi thường gặp",
+  "statsTitle": "",
+  "contactTitle": "Đăng ký tư vấn",
+  "contactText": "Để lại thông tin, nhân viên sẽ liên hệ tư vấn dịch vụ và báo giá phù hợp cho bạn.",
+  "announce": "",
+  "announceUrl": "",
+  "zalo": "",
+  "iconFacebook": "",
+  "iconInstagram": "",
+  "iconTwitter": "",
+  "iconGooglePlay": "",
+  "iconAppStore": "",
+  "stepsImg": "",
+  "logoLight": "/brand/swift247-logo-white.svg",
+  "voucherTitle": "Ưu đãi & voucher",
+  "calcF2": "1.25",
+  "calcKm2": "300",
+  "calcF3": "1.6",
+  "calcKm3": "800",
+  "calcF4": "2",
+  "calcRemote": "15000",
+  "calcPickRemote": "10000",
+  "calcIntraFree": "20",
+  "calcIntraKm": "2500",
+  "calcVolDiv": "6000",
+  "calcGeo": "1"
+ },
+ "menu": [
+  {
+   "label": "Về chúng tôi",
+   "href": "/#about",
+   "children": []
+  },
+  {
+   "label": "Dịch vụ",
+   "href": "/#services",
+   "children": [
+    {
+     "label": "Thông tin dịch vụ",
+     "href": "/p/thong-tin-dich-vu"
+    },
+    {
+     "label": "Chuyển phát nhanh trong nước",
+     "href": "/p/chuyen-phat-nhanh-trong-nuoc"
+    },
+    {
+     "label": "Chuyển phát nhanh quốc tế",
+     "href": "/p/chuyen-phat-nhanh-quoc-te"
+    }
+   ]
+  },
+  {
+   "label": "Ưu đãi",
+   "href": "/#voucher",
+   "children": []
+  },
+  {
+   "label": "Bảng giá",
+   "href": "/#calc",
+   "children": []
+  },
+  {
+   "label": "Video",
+   "href": "/#videos",
+   "children": []
+  },
+  {
+   "label": "Tin tức",
+   "href": "/news",
+   "children": []
+  },
+  {
+   "label": "Liên hệ",
+   "href": "/#contact",
+   "children": []
+  }
+ ],
+ "banners": [
+  {
+   "kicker": "Giao hàng hỏa tốc toàn quốc 24/7",
+   "title": "Hàng gấp đến tay chỉ trong vài giờ",
+   "text": "Swift247 nhận hàng tận nơi trong 30–60 phút, giao siêu tốc dưới 6 giờ nội thành và hỏa tốc 24 giờ đến 63 tỉnh thành.",
+   "points": "Siêu hỏa tốc dưới 6 giờ\nPhủ sóng 63 tỉnh thành\nTheo dõi hành trình trực tiếp",
+   "btn": "",
+   "btnHref": "",
+   "btn2": "Xem bảng giá",
+   "btn2Href": "/#calc",
+   "imgs": "/banner/home-hero.svg\n/banner/city-dusk.svg",
+   "alt": "Mạng lưới giao hàng hỏa tốc Swift247 Bắc – Trung – Nam",
+   "video": ""
+  },
+  {
+   "kicker": "Giải pháp cho doanh nghiệp",
+   "title": "Một đối tác giao nhận cho mọi đơn hàng",
+   "text": "Cước ưu đãi theo sản lượng, đối soát công nợ rõ ràng và tài khoản quản lý đơn riêng cho cửa hàng, doanh nghiệp.",
+   "points": "Cước theo sản lượng\nĐối soát minh bạch\nHỗ trợ 24/7",
+   "btn": "Đăng ký tư vấn",
+   "btnHref": "/#contact",
+   "btn2": "Dịch vụ của chúng tôi",
+   "btn2Href": "/#services",
+   "imgs": "/banner/warehouse.svg\n/banner/truck-highway.svg",
+   "alt": "Kho hàng và xe tải giao nhận Swift247",
+   "video": ""
+  }
+ ],
+ "hero": [
+  {
+   "kicker": "Ưu đãi giao nhận cuối năm",
+   "title": "Giảm 100k cho đơn hỏa tốc đầu tiên",
+   "big": "100k",
+   "code": "SWIFT100K",
+   "expiry": "31/12/2026",
+   "terms": "Áp dụng cho khách hàng mới đặt qua app, đơn từ 150.000đ.",
+   "btn": "Tải app để dùng mã",
+   "btnHref": "/#app",
+   "imgs": "/banner/gifts-voucher.svg\n/banner/city-dusk.svg",
+   "alt": "Voucher giảm 100k giao hàng hỏa tốc Swift247",
+   "video": "",
+   "detail": "Nhập mã SWIFT100K ở bước thanh toán trên ứng dụng Swift247\nChỉ áp dụng cho đơn đầu tiên của tài khoản mới\nGiá trị đơn tối thiểu 150.000đ (chưa gồm phụ phí)\nKhông áp dụng đồng thời với mã giảm giá khác",
+   "start": ""
+  },
+  {
+   "kicker": "SUPERSWIFT",
+   "title": "Siêu tốc 4H nội thành – giảm 30%",
+   "big": "-30%",
+   "code": "SUPER4H",
+   "expiry": "30/11/2026",
+   "terms": "Áp dụng dịch vụ Siêu hỏa tốc nội tỉnh, tối đa 50.000đ/đơn.",
+   "btn": "Đặt giao hàng ngay",
+   "btnHref": "/#calc",
+   "imgs": "/banner/timer-speed.svg\n/banner/courier-road.svg",
+   "alt": "Ưu đãi giao siêu tốc 4 giờ Swift247",
+   "video": "",
+   "detail": "Áp dụng dịch vụ Siêu hỏa tốc trong cùng tỉnh/thành\nGiảm 30%, tối đa 50.000đ mỗi đơn\nMỗi tài khoản dùng tối đa 5 lần trong thời gian chương trình\nÁp dụng trên website và ứng dụng",
+   "start": ""
+  },
+  {
+   "kicker": "Khách doanh nghiệp",
+   "title": "Giảm 15% cước cho đơn từ 20 kiện/tháng",
+   "big": "-15%",
+   "code": "BIZ15",
+   "start": "01/10/2026",
+   "expiry": "31/12/2026",
+   "terms": "Dành cho tài khoản doanh nghiệp đăng ký sử dụng dịch vụ Hỏa tốc và Hỏa tốc tiết kiệm.",
+   "detail": "Áp dụng khi tổng sản lượng trong tháng từ 20 kiện trở lên\nChiết khấu được trừ trực tiếp trên bảng đối soát cuối tháng\nKết hợp được với cước ưu đãi theo hợp đồng\nLiên hệ hotline để kích hoạt cho tài khoản",
+   "btn": "Đăng ký tư vấn",
+   "btnHref": "/#contact",
+   "imgs": "/banner/warehouse.svg",
+   "alt": "Ưu đãi giao hàng cho doanh nghiệp",
+   "video": ""
+  },
+  {
+   "kicker": "Cuối tuần hỏa tốc",
+   "title": "Miễn phí lấy hàng tận nơi thứ Bảy, Chủ nhật",
+   "big": "0đ",
+   "code": "WEEKEND0",
+   "start": "",
+   "expiry": "30/11/2026",
+   "terms": "Miễn phí lấy hàng cho mọi đơn Siêu hỏa tốc và Hỏa tốc đặt vào thứ Bảy, Chủ nhật.",
+   "detail": "Áp dụng cho đơn đặt từ 7:00 đến 20:00 thứ Bảy và Chủ nhật\nMiễn phụ phí lấy hàng nội thành, kể cả lấy hàng tại xã/vùng xa trong bán kính 20 km\nKhông giới hạn số đơn mỗi tài khoản",
+   "btn": "Đặt giao hàng ngay",
+   "btnHref": "",
+   "imgs": "/banner/courier-road.svg",
+   "alt": "Miễn phí lấy hàng cuối tuần",
+   "video": "",
+   "hideHero": "1"
+  },
+  {
+   "kicker": "Gửi hàng đi quốc tế",
+   "title": "Giảm 200k cho lô hàng quốc tế đầu tiên",
+   "big": "200k",
+   "code": "GLOBAL200",
+   "start": "",
+   "expiry": "20/10/2026",
+   "terms": "Áp dụng cho lô hàng chuyển phát nhanh quốc tế từ 2kg, cước từ 1.000.000đ.",
+   "detail": "Áp dụng cho chặng đi Nhật Bản, Hàn Quốc, Singapore, Đài Loan\nMỗi khách hàng được dùng 1 lần\nHỗ trợ khai báo hải quan miễn phí cho lô hàng dùng mã",
+   "btn": "Tìm hiểu dịch vụ quốc tế",
+   "btnHref": "/p/chuyen-phat-nhanh-quoc-te",
+   "imgs": "/banner/plane-clouds.svg",
+   "alt": "Ưu đãi chuyển phát nhanh quốc tế",
+   "video": "",
+   "hideHero": "1"
+  }
+ ],
+ "services": [
+  {
+   "icon": "Timer",
+   "title": "Siêu hỏa tốc (<6h)",
+   "href": "",
+   "desc": "Dưới 6h, phù hợp với các chứng từ, hồ sơ hoặc giấy tờ có yêu cầu cực kỳ khẩn cấp.",
+   "imgs": "/banner/courier-road.svg\n/banner/timer-speed.svg",
+   "alt": "Siêu hỏa tốc dưới 6 giờ",
+   "eta": "Dưới 6 giờ",
+   "points": "Lấy hàng trong 30–60 phút\nƯu tiên chứng từ, hồ sơ khẩn",
+   "btn": "Đặt giao siêu tốc",
+   "more": "/p/thong-tin-dich-vu",
+   "detail": "Siêu hỏa tốc là gói giao nhận nhanh nhất của Swift247, cam kết giao trong vòng 6 giờ kể từ khi lấy hàng. Dịch vụ phù hợp với chứng từ, hồ sơ thầu, hợp đồng, giấy tờ pháp lý hoặc hàng hóa nhỏ cần đến tay người nhận ngay trong ngày.\nNhân viên giao nhận đến lấy hàng trong 30–60 phút, đơn được ưu tiên xử lý riêng và đi thẳng tới người nhận, hạn chế tối đa trung chuyển. Bạn theo dõi hành trình theo thời gian thực trên ứng dụng và nhận thông báo ngay khi giao thành công."
+  },
+  {
+   "icon": "Wallet",
+   "title": "Hỏa tốc (<24h)",
+   "href": "",
+   "desc": "Giao trong vòng 24 giờ, phù hợp hàng hóa và tài liệu cần đến tay người nhận trong ngày hôm sau.",
+   "imgs": "/banner/plane-clouds.svg\n/banner/city-dusk.svg",
+   "alt": "Hỏa tốc 24 giờ",
+   "eta": "Dưới 24 giờ",
+   "points": "Giao trong ngày hôm sau\nPhủ sóng 63 tỉnh thành",
+   "btn": "Đặt giao hỏa tốc",
+   "more": "/p/chuyen-phat-nhanh-trong-nuoc",
+   "detail": "Hỏa tốc là lựa chọn cân bằng giữa tốc độ và chi phí: hàng hóa, tài liệu được giao trong vòng 24 giờ, đến tay người nhận ngay ngày hôm sau trên phạm vi toàn quốc.\nĐơn hàng được lấy tận nơi, đóng gói và chuyển qua mạng lưới vận chuyển nhanh của Swift247 cùng các đối tác. Trạng thái đơn được cập nhật liên tục trên ứng dụng và website tra cứu."
+  },
+  {
+   "icon": "Boxes",
+   "title": "Hỏa tốc tiết kiệm (24-48h)",
+   "href": "",
+   "desc": "Giao trong 24-48 giờ với mức cước tối ưu, dành cho hàng hóa không quá gấp.",
+   "imgs": "/banner/truck-highway.svg\n/banner/warehouse.svg",
+   "alt": "Hỏa tốc tiết kiệm 24-48 giờ",
+   "eta": "24 – 48 giờ",
+   "points": "Cước tối ưu nhất\nPhù hợp hàng số lượng lớn",
+   "btn": "Đặt giao tiết kiệm",
+   "more": "/p/chuyen-phat-nhanh-trong-nuoc",
+   "detail": "Hỏa tốc tiết kiệm giao trong 24–48 giờ với mức cước tối ưu nhất, dành cho hàng hóa không quá gấp, đơn số lượng lớn hoặc gửi hàng định kỳ.\nDịch vụ vẫn lấy hàng tận nơi, hỗ trợ thu hộ (COD) và đối soát minh bạch, giúp cửa hàng và doanh nghiệp tiết kiệm chi phí vận chuyển mà vẫn đảm bảo thời gian giao."
+  },
+  {
+   "icon": "Store",
+   "title": "Đại lý doanh nghiệp",
+   "href": "/#contact",
+   "desc": "Giải pháp giao nhận cho cửa hàng, doanh nghiệp: cước ưu đãi theo sản lượng, đối soát công nợ rõ ràng.",
+   "imgs": "/banner/storefront.svg\n/banner/warehouse.svg",
+   "alt": "Đại lý doanh nghiệp Swift247",
+   "eta": "Theo hợp đồng",
+   "points": "Cước theo sản lượng\nĐối soát công nợ hằng tháng",
+   "btn": "Đăng ký tư vấn",
+   "detail": "Chương trình Đại lý doanh nghiệp dành cho cửa hàng, shop online và doanh nghiệp có nhu cầu gửi hàng thường xuyên. Mức cước được tính theo sản lượng, càng gửi nhiều càng ưu đãi.\nSwift247 hỗ trợ tài khoản quản lý đơn riêng, đối soát công nợ hằng tháng rõ ràng, nhân viên chăm sóc riêng và tích hợp đặt đơn qua API. Để lại thông tin để được tư vấn gói phù hợp."
+  }
+ ],
+ "steps": [
+  {
+   "title": "Bước 1",
+   "text": "Đăng ký hoặc đăng nhập tài khoản."
+  },
+  {
+   "title": "Bước 2",
+   "text": "Chọn 1 trong 4 dịch vụ của chúng tôi."
+  },
+  {
+   "title": "Bước 3",
+   "text": "Nhấn tiếp tục và hoàn thiện các bước."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Hướng dẫn đặt vé máy bay trên app Vietjet Air",
+   "url": "https://www.youtube.com/shorts/RnLvMLPpsjA",
+   "desc": "Các bước đặt vé nhanh ngay trên ứng dụng Vietjet Air (video ngắn).",
+   "date": ""
+  },
+  {
+   "title": "Hướng dẫn đặt vé máy bay trên website Vietjet Air",
+   "url": "https://www.youtube.com/watch?v=6CBfogrSeWQ",
+   "desc": "Đặt vé trên vietjetair.com với giao diện website mới: chọn chuyến, nhập thông tin, thanh toán.",
+   "date": ""
+  },
+  {
+   "title": "Làm thủ tục check-in online Vietjet Air trên điện thoại",
+   "url": "https://www.youtube.com/watch?v=r4LD2N06PKo",
+   "desc": "Check-in trực tuyến trên điện thoại để tiết kiệm thời gian, không phải xếp hàng ở sân bay.",
+   "date": ""
+  },
+  {
+   "title": "Hướng dẫn đi máy bay Vietjet cho người bay lần đầu",
+   "url": "https://www.youtube.com/watch?v=6nd6g4O0XgA",
+   "desc": "Những quy định và thủ tục cần biết khi bay cùng Vietjet lần đầu tiên.",
+   "date": ""
+  },
+  {
+   "title": "Check-in online Vietjet Air từng bước (tiếng Anh, 2026)",
+   "url": "https://www.youtube.com/watch?v=FWMbFe9I7lY",
+   "desc": "Hướng dẫn cập nhật 2026 bằng tiếng Anh: làm thủ tục trực tuyến và nhận thẻ lên máy bay.",
+   "date": ""
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Khách hàng A",
+   "date": "03/02/2026",
+   "text": "Dịch vụ giao hàng rất nhanh, không tăng giá, ưu đãi xuyên suốt.\nSẽ tiếp tục sử dụng.",
+   "img": ""
+  },
+  {
+   "name": "Khách hàng B",
+   "date": "10/03/2026",
+   "text": "Theo dõi hành trình rất tiện, tài xế nhiệt tình.",
+   "img": ""
+  }
+ ],
+ "partners": [
+  {
+   "name": "HDBank",
+   "logo": ""
+  },
+  {
+   "name": "Vietjet Air",
+   "logo": ""
+  },
+  {
+   "name": "Grab",
+   "logo": ""
+  },
+  {
+   "name": "EMS",
+   "logo": ""
+  },
+  {
+   "name": "AhaMove",
+   "logo": ""
+  }
+ ],
+ "footerLinks": [
+  {
+   "label": "Bảng giá",
+   "href": "/#calc"
+  },
+  {
+   "label": "Quy trình gửi hàng",
+   "href": "/p/quy-trinh-gui-hang"
+  },
+  {
+   "label": "Hàng hóa không vận chuyển",
+   "href": "/p/hang-hoa-khong-van-chuyen"
+  },
+  {
+   "label": "Chính sách bồi thường",
+   "href": "/p/chinh-sach-boi-thuong"
+  },
+  {
+   "label": "Điều khoản sử dụng",
+   "href": "/p/dieu-khoan-su-dung"
+  },
+  {
+   "label": "Chính sách bảo mật",
+   "href": "/p/chinh-sach-bao-mat"
+  },
+  {
+   "label": "Câu hỏi thường gặp",
+   "href": "/cau-hoi-thuong-gap"
+  }
+ ],
+ "stats": [
+  {
+   "icon": "Package",
+   "num": "2000000",
+   "suffix": "+",
+   "label": "Đơn hàng đã giao"
+  },
+  {
+   "icon": "Users",
+   "num": "150000",
+   "suffix": "+",
+   "label": "Khách hàng tin dùng"
+  },
+  {
+   "icon": "Globe",
+   "num": "63",
+   "suffix": "",
+   "label": "Tỉnh thành phủ sóng"
+  },
+  {
+   "icon": "Clock",
+   "num": "24",
+   "suffix": "/7",
+   "label": "Hỗ trợ không nghỉ"
+  }
+ ],
+ "rates": [
+  {
+   "name": "Siêu hỏa tốc (<6h)",
+   "base": "45000",
+   "perKg": "12000",
+   "eta": "Giao trong 6 giờ"
+  },
+  {
+   "name": "Hỏa tốc (<24h)",
+   "base": "32000",
+   "perKg": "9000",
+   "eta": "Giao trong 24 giờ"
+  },
+  {
+   "name": "Hỏa tốc tiết kiệm (24-48h)",
+   "base": "25000",
+   "perKg": "6000",
+   "eta": "Giao trong 24-48 giờ"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Làm sao để tra cứu đơn hàng?",
+   "a": "Nhập mã đơn hàng vào ô \"Tra cứu đơn hàng\" ở đầu trang chủ."
+  },
+  {
+   "q": "Thời gian giao hàng là bao lâu?",
+   "a": "Tùy dịch vụ: dưới 6 giờ, dưới 24 giờ hoặc 24-48 giờ."
+  },
+  {
+   "q": "Hàng hóa nào không được vận chuyển?",
+   "a": "Vui lòng xem mục \"Hàng hóa không vận chuyển\" ở chân trang."
+  }
+ ],
+ "modes": [
+  {
+   "icon": "DoorOpen",
+   "title": "Door to Door",
+   "text": "Giao tại nhà, nhận tại nhà.",
+   "detail": "Shipper đến tận nơi lấy hàng và giao tận tay người nhận – bạn không cần ra bưu cục.",
+   "points": "Phù hợp: hàng gấp, tài liệu, khách không tiện di chuyển\nLấy hàng trong 30–60 phút tại nội thành\nTheo dõi vị trí shipper theo thời gian thực"
+  },
+  {
+   "icon": "Home",
+   "title": "Door to Point",
+   "text": "Giao tại nhà, nhận bưu cục.",
+   "detail": "Shipper lấy hàng tại nhà, người nhận chủ động đến bưu cục gần nhất để nhận.",
+   "points": "Phù hợp: người nhận hay vắng nhà, muốn tự chọn giờ nhận\nTiết kiệm hơn giao tận nhà\nBưu cục giữ hàng miễn phí tối đa 3 ngày"
+  },
+  {
+   "icon": "Route",
+   "title": "Point to Point",
+   "text": "Giao bưu cục, nhận bưu cục.",
+   "detail": "Bạn gửi hàng tại bưu cục, người nhận đến bưu cục nơi đến để lấy.",
+   "points": "Phù hợp: shop gửi số lượng lớn, hàng không gấp\nCước thấp nhất trong 4 hình thức\nĐóng gói & cân hàng ngay tại quầy"
+  },
+  {
+   "icon": "MapPin",
+   "title": "Point to Door",
+   "text": "Giao bưu cục, nhận tại nhà.",
+   "detail": "Bạn mang hàng ra bưu cục, Swift247 giao tận nhà cho người nhận.",
+   "points": "Phù hợp: gửi quà, gửi hàng khi đi ngang bưu cục\nKhông phải chờ shipper đến lấy\nGiao tận tay, hỗ trợ thu hộ COD"
+  }
+ ],
+ "postCats": [
+  {
+   "key": "van-chuyen",
+   "name": "Tin vận chuyển",
+   "desc": "Tin tức về dịch vụ, mạng lưới và hoạt động vận chuyển của Swift247."
+  },
+  {
+   "key": "huong-dan",
+   "name": "Hướng dẫn",
+   "desc": "Hướng dẫn gửi hàng, đóng gói, tra cứu và sử dụng ứng dụng Swift247."
+  },
+  {
+   "key": "khuyen-mai",
+   "name": "Khuyến mãi",
+   "desc": "Mã giảm giá, voucher và chương trình ưu đãi giao hàng hỏa tốc."
+  },
+  {
+   "key": "cong-ty",
+   "name": "Tin công ty",
+   "desc": "Tin hoạt động, khai trương bưu cục và sự kiện của Swift247."
+  }
+ ],
+ "postChecks": [
+  {
+   "label": "Thiếu mô tả ngắn (sapo)",
+   "group": "Nội dung",
+   "type": "missing",
+   "field": "excerpt",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Nội dung < {n} từ",
+   "group": "Nội dung",
+   "type": "minWords",
+   "field": "",
+   "value": "300",
+   "on": "1"
+  },
+  {
+   "label": "Chưa có tiêu đề H2",
+   "group": "Nội dung",
+   "type": "noH2",
+   "field": "",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Chưa có liên kết nội bộ",
+   "group": "Nội dung",
+   "type": "minInternal",
+   "field": "",
+   "value": "1",
+   "on": "1"
+  },
+  {
+   "label": "Thiếu tiêu đề SEO",
+   "group": "SEO",
+   "type": "missing",
+   "field": "seoTitle",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Tiêu đề SEO dài/ngắn (chuẩn {n})",
+   "group": "SEO",
+   "type": "len",
+   "field": "seoTitle",
+   "value": "30-60",
+   "on": "1"
+  },
+  {
+   "label": "Thiếu mô tả SEO",
+   "group": "SEO",
+   "type": "missing",
+   "field": "seoDesc",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Mô tả SEO dài/ngắn (chuẩn {n})",
+   "group": "SEO",
+   "type": "len",
+   "field": "seoDesc",
+   "value": "120-160",
+   "on": "1"
+  },
+  {
+   "label": "Thiếu từ khóa chính",
+   "group": "SEO",
+   "type": "missing",
+   "field": "keyword",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Điểm SEO < {n}",
+   "group": "SEO",
+   "type": "lowSeo",
+   "field": "",
+   "value": "60",
+   "on": "1"
+  },
+  {
+   "label": "Thiếu ảnh bìa",
+   "group": "Hình ảnh",
+   "type": "missing",
+   "field": "cover",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Ảnh bìa thiếu mô tả (alt)",
+   "group": "Hình ảnh",
+   "type": "missing",
+   "field": "coverAlt",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Chưa có ảnh trong nội dung",
+   "group": "Hình ảnh",
+   "type": "minImgs",
+   "field": "",
+   "value": "1",
+   "on": "1"
+  },
+  {
+   "label": "Ảnh trong bài thiếu alt",
+   "group": "Hình ảnh",
+   "type": "imgAlt",
+   "field": "",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Chuyên mục không hợp lệ",
+   "group": "Khác",
+   "type": "badCat",
+   "field": "",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Trùng tiêu đề với bài khác",
+   "group": "Khác",
+   "type": "dupTitle",
+   "field": "",
+   "value": "",
+   "on": "1"
+  },
+  {
+   "label": "Chưa dịch đủ ngôn ngữ",
+   "group": "Khác",
+   "type": "noTrans",
+   "field": "",
+   "value": "",
+   "on": "1"
+  }
+ ]
+}

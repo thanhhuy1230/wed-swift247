@@ -1,0 +1,11 @@
+'use client';import Link from 'next/link';import {useState,useEffect} from 'react';import {Sun,Moon,Menu,X,Plane,PackagePlus,User,ChevronDown} from 'lucide-react';import {D} from '@/lib/dict';import LangSwitch from './LangSwitch';
+function Th({t}){const [d,setD]=useState(false);useEffect(()=>setD(document.documentElement.dataset.theme==='dark'),[]);return <button className="burger th" aria-label={t.theme} onClick={()=>{const n=d?'light':'dark';document.documentElement.dataset.theme=n;try{localStorage.setItem('th',n)}catch{}setD(!d)}}>{d?<Sun size={20}/>:<Moon size={20}/>}</button>}
+export default function Header({info,menu,lang='vi',langs}){const t=D[lang]||D.vi,[o,setO]=useState(false),[d,setD]=useState(-1);
+const close=()=>{setO(false);setD(-1)};
+return(<header className="hd"><div className="wrap hd-in"><Link href="/" className="logo" aria-label={info.name+' – '+t.home}>{info.logo?<img src={info.logo} alt={info.name} width="236" height="64" fetchpriority="high"/>:<><Plane size={28}/>{info.name}</>}</Link>
+<nav className={o?'open':''}>{menu.map((m,k)=>{const ch=(m.children||[]).filter(c=>c.label);
+ if(!ch.length)return <Link key={k} href={m.href||'#'} onClick={close}>{m.label}</Link>;
+ return(<div key={k} className={'dd'+(d===k?' open':'')} onMouseLeave={()=>setD(-1)}>
+  <div className="dd-t"><Link href={m.href||'#'} className="dl" onClick={close}>{m.label}</Link><button type="button" className="dd-b" aria-label={t.openMenu+m.label} aria-expanded={d===k} onClick={()=>setD(d===k?-1:k)}><ChevronDown size={16}/></button></div>
+  <div className="dd-menu"><div className="dd-box">{ch.map((c,j)=><Link key={j} href={c.href||'#'} onClick={close}>{c.label}</Link>)}</div></div></div>)})}</nav>
+<div className="acts"><div className="cg">{info.bookingUrl&&<a className="cg-a book" href={info.bookingUrl} data-ga="begin_booking" data-ga-location="header"><PackagePlus size={16}/><span>{info.bookingLabel||t.book}</span></a>}<a className="cg-a login" data-ga="login_click" data-ga-location="header" href={info.loginUrl||info.bookingUrl||'/#contact'}><User size={16}/><span>{t.loginS}</span></a></div>{(!langs||langs.length>1)&&<LangSwitch lang={lang} langs={langs}/>}<Th t={t}/><button className="burger mb" aria-label={t.menu} onClick={()=>setO(!o)}>{o?<X/>:<Menu/>}</button></div></div></header>)}

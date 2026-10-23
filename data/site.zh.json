@@ -1,0 +1,406 @@
+{
+ "info": {
+  "tagline": "越南全国特快配送",
+  "seoDesc": "Swift247 – 越南全国特快及当日达配送，全天候24小时服务。在线查询订单、按地址估算运费并领取配送优惠券。",
+  "address": "越南胡志明市新平郡长山路60A号 Vietjet Plaza 7楼",
+  "hours": "全天24小时营业",
+  "bookingUrl": "https://example.vn/dat-hang",
+  "bookingLabel": "预约配送",
+  "loginUrl": "https://example.vn/dang-nhap",
+  "trackUrl": "https://example.vn/tra-cuu",
+  "license": "企业注册号：0000000000 – 2020年1月1日签发 | 签发机关：胡志明市计划投资厅",
+  "servicesTitle": "我们的服务",
+  "stepsTitle": "下单流程",
+  "appTitle": "立即下载 App",
+  "appText": "在 App 中预约配送、追踪包裹并享受专属优惠。",
+  "videoTitle": "介绍视频",
+  "reviewsTitle": "客户评价",
+  "newsTitle": "最新资讯",
+  "partnersTitle": "合作伙伴",
+  "calcTitle": "快速运费计算",
+  "calcNote": "* 仅供参考，实际运费以下单时显示为准。",
+  "faqTitle": "常见问题",
+  "statsTitle": "",
+  "contactTitle": "预约咨询",
+  "contactText": "留下您的联系方式，我们的专员将为您推荐合适的服务并提供报价。",
+  "announce": "",
+  "announceUrl": "",
+  "stepsImg": "",
+  "voucherTitle": "优惠与代金券"
+ },
+ "menu": [
+  {
+   "label": "关于我们",
+   "href": "/#about",
+   "children": []
+  },
+  {
+   "label": "服务",
+   "href": "/#services",
+   "children": [
+    {
+     "label": "服务介绍",
+     "href": "/p/service-information"
+    },
+    {
+     "label": "国内特快",
+     "href": "/p/domestic-express"
+    },
+    {
+     "label": "国际特快",
+     "href": "/p/international-express"
+    }
+   ]
+  },
+  {
+   "label": "优惠",
+   "href": "/#voucher",
+   "children": []
+  },
+  {
+   "label": "价格",
+   "href": "/#calc",
+   "children": []
+  },
+  {
+   "label": "视频",
+   "href": "/#videos",
+   "children": []
+  },
+  {
+   "label": "新闻",
+   "href": "/news",
+   "children": []
+  },
+  {
+   "label": "联系我们",
+   "href": "/#contact",
+   "children": []
+  }
+ ],
+ "banners": [
+  {
+   "kicker": "全国特快配送 24/7",
+   "title": "急件数小时内送达",
+   "text": "Swift247 30–60 分钟上门取件，市内 6 小时内送达，全国 63 个省市 24 小时内送达。",
+   "points": "6 小时内超特快\n覆盖全国 63 个省市\n实时追踪",
+   "btn": "",
+   "btnHref": "",
+   "btn2": "查看价格",
+   "btn2Href": "/#calc",
+   "imgs": "/banner/home-hero.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 特快配送网络",
+   "video": ""
+  },
+  {
+   "kicker": "企业解决方案",
+   "title": "一个伙伴，搞定所有订单",
+   "text": "按量优惠运费、清晰的月度对账，以及门店与企业专属订单管理账户。",
+   "points": "按量计费\n透明对账\n24 小时支持",
+   "btn": "预约咨询",
+   "btnHref": "/#contact",
+   "btn2": "我们的服务",
+   "btn2Href": "/#services",
+   "imgs": "/banner/warehouse.svg\n/banner/truck-highway.svg",
+   "alt": "Swift247 仓库与配送卡车",
+   "video": ""
+  }
+ ],
+ "hero": [
+  {
+   "kicker": "年末配送优惠",
+   "title": "首单特快立减10万越南盾",
+   "big": "100k",
+   "code": "SWIFT100K",
+   "expiry": "31/12/2026",
+   "terms": "App 新用户下单满15万越南盾可用。",
+   "btn": "下载 App 使用优惠码",
+   "btnHref": "/#app",
+   "imgs": "/banner/gifts-voucher.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 特快配送10万越南盾优惠券",
+   "video": "",
+   "detail": "在 Swift247 App 结算页输入 SWIFT100K\n仅限新账户首单\n最低订单金额 15 万越南盾（不含附加费）\n不可与其他优惠码同时使用",
+   "start": ""
+  },
+  {
+   "kicker": "SUPERSWIFT",
+   "title": "市内4小时达 – 7折优惠",
+   "big": "-30%",
+   "code": "SUPER4H",
+   "expiry": "30/11/2026",
+   "terms": "适用于同省超特快服务，每单最高优惠5万越南盾。",
+   "btn": "立即预约配送",
+   "btnHref": "/#calc",
+   "imgs": "/banner/timer-speed.svg\n/banner/courier-road.svg",
+   "alt": "Swift247 4小时特快配送优惠",
+   "video": "",
+   "detail": "适用于省内超特快服务\n7 折，每单最多减 5 万越南盾\n活动期间每个账户最多使用 5 次\n网站和 App 均可使用",
+   "start": ""
+  },
+  {
+   "kicker": "企业客户",
+   "title": "每月 20 件以上运费 85 折",
+   "big": "-15%",
+   "code": "BIZ15",
+   "start": "01/10/2026",
+   "expiry": "31/12/2026",
+   "terms": "适用于使用特快及经济特快服务的企业账户。",
+   "detail": "当月发货量达 20 件及以上时适用\n折扣在月末对账单中直接扣减\n可与合同价叠加\n请致电热线为账户开通",
+   "btn": "预约咨询",
+   "btnHref": "/#contact",
+   "imgs": "/banner/warehouse.svg",
+   "alt": "企业配送优惠",
+   "video": ""
+  },
+  {
+   "kicker": "周末特快",
+   "title": "周六日免费上门取件",
+   "big": "0₫",
+   "code": "WEEKEND0",
+   "start": "",
+   "expiry": "30/11/2026",
+   "terms": "周末下单的超特快与特快订单免取件费。",
+   "detail": "适用于周六、周日 7:00–20:00 下单\n市内免取件附加费（含 20 公里内偏远地区）\n每个账户订单数不限",
+   "btn": "立即下单",
+   "btnHref": "",
+   "imgs": "/banner/courier-road.svg",
+   "alt": "周末免费取件",
+   "video": "",
+   "hideHero": "1"
+  },
+  {
+   "kicker": "国际寄件",
+   "title": "首票国际件立减 20 万越南盾",
+   "big": "200k",
+   "code": "GLOBAL200",
+   "start": "",
+   "expiry": "20/10/2026",
+   "terms": "适用于 2 公斤以上、运费 100 万越南盾以上的国际特快件。",
+   "detail": "适用于寄往日本、韩国、新加坡、台湾\n每位客户限用 1 次\n使用优惠码可免费协助报关",
+   "btn": "国际服务",
+   "btnHref": "/p/chuyen-phat-nhanh-quoc-te",
+   "imgs": "/banner/plane-clouds.svg",
+   "alt": "国际特快优惠",
+   "video": "",
+   "hideHero": "1"
+  }
+ ],
+ "services": [
+  {
+   "icon": "Timer",
+   "title": "超特快（6小时内）",
+   "href": "",
+   "desc": "6小时内送达，适合极其紧急的文件、资料和单据。",
+   "imgs": "/banner/courier-road.svg\n/banner/timer-speed.svg",
+   "alt": "6小时内超特快配送",
+   "eta": "6 小时内",
+   "points": "30–60 分钟取件\n急件文件优先"
+  },
+  {
+   "icon": "Wallet",
+   "title": "特快（24小时内）",
+   "href": "",
+   "desc": "24小时内送达，适合需在次日送达的货物和文件。",
+   "imgs": "/banner/plane-clouds.svg\n/banner/city-dusk.svg",
+   "alt": "24小时特快配送",
+   "eta": "24 小时内",
+   "points": "次日送达\n覆盖 63 个省市"
+  },
+  {
+   "icon": "Boxes",
+   "title": "经济特快（24-48小时）",
+   "href": "",
+   "desc": "24-48小时送达，以优惠运费寄送不太紧急的货物。",
+   "imgs": "/banner/truck-highway.svg\n/banner/warehouse.svg",
+   "alt": "24-48小时经济特快配送",
+   "eta": "24–48 小时",
+   "points": "运费最低\n适合大批量"
+  },
+  {
+   "icon": "Store",
+   "title": "企业代理",
+   "href": "/#contact",
+   "desc": "为商铺和企业提供配送方案：按量优惠运费，对账清晰透明。",
+   "imgs": "/banner/storefront.svg\n/banner/warehouse.svg",
+   "alt": "Swift247 企业代理",
+   "eta": "按合同",
+   "points": "按量计费\n月度对账"
+  }
+ ],
+ "steps": [
+  {
+   "title": "第1步",
+   "text": "注册或登录账户。"
+  },
+  {
+   "title": "第2步",
+   "text": "从4项服务中选择一项。"
+  },
+  {
+   "title": "第3步",
+   "text": "点击继续并完成剩余步骤。"
+  }
+ ],
+ "videos": [
+  {
+   "title": "如何在 Vietjet Air App 上订机票",
+   "url": "https://www.youtube.com/shorts/RnLvMLPpsjA",
+   "desc": "在 Vietjet Air App 中快速订票的步骤（短视频）。",
+   "date": ""
+  },
+  {
+   "title": "如何在 Vietjet Air 官网订票",
+   "url": "https://www.youtube.com/watch?v=6CBfogrSeWQ",
+   "desc": "在新版 vietjetair.com 上选择航班、填写信息并完成付款。",
+   "date": ""
+  },
+  {
+   "title": "用手机办理 Vietjet Air 在线值机",
+   "url": "https://www.youtube.com/watch?v=r4LD2N06PKo",
+   "desc": "用手机在线值机，节省时间，免去机场排队。",
+   "date": ""
+  },
+  {
+   "title": "首次乘坐 Vietjet 航班指南",
+   "url": "https://www.youtube.com/watch?v=6nd6g4O0XgA",
+   "desc": "第一次乘坐 Vietjet 前需要了解的规定和流程。",
+   "date": ""
+  },
+  {
+   "title": "Vietjet Air 在线值机分步指南（英文，2026）",
+   "url": "https://www.youtube.com/watch?v=FWMbFe9I7lY",
+   "desc": "2026 年更新的英文指南：完成在线值机并获取登机牌。",
+   "date": ""
+  }
+ ],
+ "reviews": [
+  {
+   "name": "客户 A",
+   "date": "2026年2月3日",
+   "text": "配送非常快，没有乱涨价，优惠也很多。\n我会继续使用。",
+   "img": ""
+  },
+  {
+   "name": "客户 B",
+   "date": "2026年3月10日",
+   "text": "查询配送进度非常方便，司机也非常友好。",
+   "img": ""
+  }
+ ],
+ "partners": [
+  {
+   "name": "HDBank",
+   "logo": ""
+  },
+  {
+   "name": "Vietjet Air",
+   "logo": ""
+  },
+  {
+   "name": "Grab",
+   "logo": ""
+  },
+  {
+   "name": "EMS",
+   "logo": ""
+  },
+  {
+   "name": "AhaMove",
+   "logo": ""
+  }
+ ],
+ "footerLinks": [
+  {
+   "label": "价格",
+   "href": "/#calc"
+  },
+  {
+   "label": "配送流程",
+   "href": "/p/shipping-process"
+  },
+  {
+   "label": "禁寄物品",
+   "href": "/p/prohibited-items"
+  },
+  {
+   "label": "赔偿政策",
+   "href": "/p/compensation-policy"
+  },
+  {
+   "label": "使用条款",
+   "href": "/p/terms-of-use"
+  },
+  {
+   "label": "隐私政策",
+   "href": "/p/privacy-policy"
+  },
+  {
+   "label": "常见问题",
+   "href": "/cau-hoi-thuong-gap"
+  }
+ ],
+ "rates": [
+  {
+   "name": "超特快（6小时内）",
+   "base": "45000",
+   "perKg": "12000",
+   "eta": "6小时内送达"
+  },
+  {
+   "name": "特快（24小时内）",
+   "base": "32000",
+   "perKg": "9000",
+   "eta": "24小时内送达"
+  },
+  {
+   "name": "经济特快（24-48小时）",
+   "base": "25000",
+   "perKg": "6000",
+   "eta": "24-48小时送达"
+  }
+ ],
+ "faq": [
+  {
+   "q": "如何查询订单？",
+   "a": "在首页顶部的“查询订单”框中输入运单号即可。"
+  },
+  {
+   "q": "配送需要多长时间？",
+   "a": "取决于所选服务：6小时内、24小时内或24-48小时。"
+  },
+  {
+   "q": "哪些物品不能寄送？",
+   "a": "请查看页面底部的“禁寄物品”。"
+  }
+ ],
+ "modes": [
+  {
+   "icon": "DoorOpen",
+   "title": "上门取件 · 送货上门",
+   "text": "上门取件，送货上门。",
+   "detail": "快递员上门取件并直接交到收件人手中，无需前往网点。",
+   "points": "适合：紧急包裹、文件、不便出门的客户\n市区30-60分钟内上门取件\n实时查看快递员位置"
+  },
+  {
+   "icon": "Home",
+   "title": "上门取件 · 网点自提",
+   "text": "上门取件，网点自提。",
+   "detail": "快递员上门取件，收件人到最近的网点自提。",
+   "points": "适合：经常不在家或想自选取件时间的收件人\n比送货上门更划算\n网点免费保管最多3天"
+  },
+  {
+   "icon": "Route",
+   "title": "网点寄件 · 网点自提",
+   "text": "网点寄件，网点自提。",
+   "detail": "将包裹送到网点寄出，收件人在目的地网点自提。",
+   "points": "适合：批量发货的商家、不着急的包裹\n4种方式中运费最低\n可在柜台打包和称重"
+  },
+  {
+   "icon": "MapPin",
+   "title": "网点寄件 · 送货上门",
+   "text": "网点寄件，送货上门。",
+   "detail": "将包裹送到网点，Swift247 送货上门交给收件人。",
+   "points": "适合：寄送礼物、顺路寄件\n无需等待上门取件\n当面签收，支持货到付款"
+  }
+ ]
+}

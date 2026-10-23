@@ -1,0 +1,9 @@
+import {notFound} from 'next/navigation';import {pageBySlug,pageVersions} from '@/lib/pages';import {langAlternates,withHl} from '@/lib/i18n';import {SITE} from '@/lib/db';import {getSite} from '@/lib/site';import {getLang} from '@/lib/lang';import {D,OG_LOCALE,HREFLANG} from '@/lib/dict';import Toc from '@/components/Toc';import {enhance,autoDesc} from '@/lib/seo';
+export const dynamic='force-dynamic';
+export function generateMetadata({params}){const lang=getLang(),p=pageBySlug(params.slug,lang);if(!p||p.status!=='published')return{};const d=p.seoDesc||p.excerpt||autoDesc(p.content),t=p.seoTitle||p.title;
+ const alt=langAlternates(`/p/${p.slug}`,lang,pageVersions(p.id));
+ return{title:t,description:d,alternates:alt,robots:p.noindex?{index:false,follow:true}:undefined,openGraph:{type:'website',url:alt.canonical,title:t,description:d,locale:OG_LOCALE[lang]},twitter:{card:'summary_large_image',title:t,description:d}}}
+export default function P({params}){const lang=getLang(),t=D[lang],p=pageBySlug(params.slug,lang);if(!p||p.status!=='published')notFound();const i=getSite(lang).info,{html,toc}=enhance(p.content,SITE.replace(/^https?:\/\//,''));
+const ld={'@context':'https://schema.org','@type':'WebPage',name:p.title,url:SITE+withHl(`/p/${p.slug}`,p.fb||lang),description:p.seoDesc||p.excerpt||autoDesc(p.content),inLanguage:HREFLANG[p.fb||lang],dateModified:p.updated||undefined,isPartOf:{'@type':'WebSite',name:i.name,url:SITE}};
+return(<article className="art"><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(ld)}}/><h1>{p.title}</h1><Toc items={toc} title={t.toc}/><div className="body" dangerouslySetInnerHTML={{__html:html}}/>
+<div className="cta">{i.bookingUrl&&<a className="pill" href={i.bookingUrl}>{i.bookingLabel||t.book}</a>}<a className="pill alt" href="/#contact">{t.consult}</a></div></article>)}

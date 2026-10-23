@@ -1,0 +1,406 @@
+{
+ "info": {
+  "tagline": "ベトナム全国の特急配送",
+  "seoDesc": "Swift247 – ベトナム全国への特急・当日配送を24時間365日。荷物追跡、住所からの送料見積もり、配送クーポンをご利用いただけます。",
+  "address": "ベトナム ホーチミン市 タンビン区 チュオンソン通り60A Vietjet Plaza 7階",
+  "hours": "24時間年中無休",
+  "bookingUrl": "https://example.vn/dat-hang",
+  "bookingLabel": "配送を予約",
+  "loginUrl": "https://example.vn/dang-nhap",
+  "trackUrl": "https://example.vn/tra-cuu",
+  "license": "事業登録番号: 0000000000 – 2020年1月1日発行 | 発行機関: ホーチミン市計画投資局",
+  "servicesTitle": "サービス一覧",
+  "stepsTitle": "ご利用の流れ",
+  "appTitle": "今すぐアプリをダウンロード",
+  "appText": "アプリで配送予約、荷物の追跡、限定特典をご利用いただけます。",
+  "videoTitle": "紹介動画",
+  "reviewsTitle": "お客様の声",
+  "newsTitle": "最新ニュース",
+  "partnersTitle": "パートナー",
+  "calcTitle": "送料かんたん計算",
+  "calcNote": "* 参考価格です。実際の料金はご注文時に表示されます。",
+  "faqTitle": "よくあるご質問",
+  "statsTitle": "",
+  "contactTitle": "無料相談のお申し込み",
+  "contactText": "ご連絡先をご記入いただければ、担当者が最適なサービスとお見積りをご案内します。",
+  "announce": "",
+  "announceUrl": "",
+  "stepsImg": "",
+  "voucherTitle": "特典・クーポン"
+ },
+ "menu": [
+  {
+   "label": "会社概要",
+   "href": "/#about",
+   "children": []
+  },
+  {
+   "label": "サービス",
+   "href": "/#services",
+   "children": [
+    {
+     "label": "サービス案内",
+     "href": "/p/service-information"
+    },
+    {
+     "label": "国内特急便",
+     "href": "/p/domestic-express"
+    },
+    {
+     "label": "国際特急便",
+     "href": "/p/international-express"
+    }
+   ]
+  },
+  {
+   "label": "特典",
+   "href": "/#voucher",
+   "children": []
+  },
+  {
+   "label": "料金",
+   "href": "/#calc",
+   "children": []
+  },
+  {
+   "label": "動画",
+   "href": "/#videos",
+   "children": []
+  },
+  {
+   "label": "ニュース",
+   "href": "/news",
+   "children": []
+  },
+  {
+   "label": "お問い合わせ",
+   "href": "/#contact",
+   "children": []
+  }
+ ],
+ "banners": [
+  {
+   "kicker": "全国特急配送 24時間365日",
+   "title": "急ぎの荷物を数時間でお届け",
+   "text": "Swift247は30〜60分で集荷し、市内は6時間以内、全国63省市へ24時間以内にお届けします。",
+   "points": "6時間以内の超特急\n全国63省市に対応\nリアルタイム追跡",
+   "btn": "",
+   "btnHref": "",
+   "btn2": "料金を見る",
+   "btn2Href": "/#calc",
+   "imgs": "/banner/home-hero.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 特急配送ネットワーク",
+   "video": ""
+  },
+  {
+   "kicker": "法人向けソリューション",
+   "title": "すべての注文を任せられる配送パートナー",
+   "text": "取扱量に応じた割引料金、明確な月次精算、店舗・企業専用の管理アカウント。",
+   "points": "取扱量割引\n明確な精算\n24時間サポート",
+   "btn": "相談を申し込む",
+   "btnHref": "/#contact",
+   "btn2": "サービス一覧",
+   "btn2Href": "/#services",
+   "imgs": "/banner/warehouse.svg\n/banner/truck-highway.svg",
+   "alt": "Swift247 倉庫と配送トラック",
+   "video": ""
+  }
+ ],
+ "hero": [
+  {
+   "kicker": "年末の配送キャンペーン",
+   "title": "初回の特急便が10万ドン引き",
+   "big": "100k",
+   "code": "SWIFT100K",
+   "expiry": "31/12/2026",
+   "terms": "アプリでの新規ご注文、15万ドン以上が対象です。",
+   "btn": "アプリでコードを使う",
+   "btnHref": "/#app",
+   "imgs": "/banner/gifts-voucher.svg\n/banner/city-dusk.svg",
+   "alt": "Swift247 特急配送 10万ドン割引クーポン",
+   "video": "",
+   "detail": "Swift247アプリの決済画面でSWIFT100Kを入力\n新規アカウントの初回注文のみ\n最低注文額15万ドン（追加料金除く）\n他のコードとの併用不可",
+   "start": ""
+  },
+  {
+   "kicker": "SUPERSWIFT",
+   "title": "市内4時間配送 – 30%オフ",
+   "big": "-30%",
+   "code": "SUPER4H",
+   "expiry": "30/11/2026",
+   "terms": "同一省内の超特急便、1件あたり最大5万ドンまで。",
+   "btn": "今すぐ配送を予約",
+   "btnHref": "/#calc",
+   "imgs": "/banner/timer-speed.svg\n/banner/courier-road.svg",
+   "alt": "Swift247 4時間特急配送キャンペーン",
+   "video": "",
+   "detail": "省内の超特急サービスに適用\n30%割引、1注文あたり最大5万ドン\nキャンペーン期間中1アカウント5回まで\nウェブサイトとアプリで利用可能",
+   "start": ""
+  },
+  {
+   "kicker": "法人のお客様",
+   "title": "月20個以上で送料15%オフ",
+   "big": "-15%",
+   "code": "BIZ15",
+   "start": "01/10/2026",
+   "expiry": "31/12/2026",
+   "terms": "特急・エコノミー特急を利用する法人アカウント向け。",
+   "detail": "月間取扱量が20個以上の場合に適用\n割引は月末の精算書で差し引き\n契約料金と併用可能\nホットラインにご連絡のうえ有効化してください",
+   "btn": "相談を申し込む",
+   "btnHref": "/#contact",
+   "imgs": "/banner/warehouse.svg",
+   "alt": "法人向け配送特典",
+   "video": ""
+  },
+  {
+   "kicker": "週末特急",
+   "title": "土日の集荷が無料",
+   "big": "0₫",
+   "code": "WEEKEND0",
+   "start": "",
+   "expiry": "30/11/2026",
+   "terms": "週末に注文した超特急・特急便の集荷料が無料。",
+   "detail": "土日7:00〜20:00の注文が対象\n市内の集荷料無料（20km以内の遠隔地を含む）\n注文数の上限なし",
+   "btn": "今すぐ配送を予約",
+   "btnHref": "",
+   "imgs": "/banner/courier-road.svg",
+   "alt": "週末の無料集荷",
+   "video": "",
+   "hideHero": "1"
+  },
+  {
+   "kicker": "国際配送",
+   "title": "初回の国際便が20万ドン引き",
+   "big": "200k",
+   "code": "GLOBAL200",
+   "start": "",
+   "expiry": "20/10/2026",
+   "terms": "2kg以上・送料100万ドン以上の国際特急便が対象。",
+   "detail": "日本・韓国・シンガポール・台湾行きに適用\nお一人様1回限り\nコード利用時は通関申告サポート無料",
+   "btn": "国際サービス",
+   "btnHref": "/p/chuyen-phat-nhanh-quoc-te",
+   "imgs": "/banner/plane-clouds.svg",
+   "alt": "国際特急の特典",
+   "video": "",
+   "hideHero": "1"
+  }
+ ],
+ "services": [
+  {
+   "icon": "Timer",
+   "title": "超特急（6時間以内）",
+   "href": "",
+   "desc": "6時間以内にお届け。至急の書類・ファイルに最適です。",
+   "imgs": "/banner/courier-road.svg\n/banner/timer-speed.svg",
+   "alt": "6時間以内の超特急便",
+   "eta": "6時間以内",
+   "points": "30〜60分で集荷\n急ぎの書類を優先"
+  },
+  {
+   "icon": "Wallet",
+   "title": "特急（24時間以内）",
+   "href": "",
+   "desc": "24時間以内にお届け。翌日までに届けたい荷物・書類に。",
+   "imgs": "/banner/plane-clouds.svg\n/banner/city-dusk.svg",
+   "alt": "24時間特急便",
+   "eta": "24時間以内",
+   "points": "翌日お届け\n全国63省市"
+  },
+  {
+   "icon": "Boxes",
+   "title": "エコノミー特急（24〜48時間）",
+   "href": "",
+   "desc": "24〜48時間でお届け。お急ぎでない荷物をお得な料金で。",
+   "imgs": "/banner/truck-highway.svg\n/banner/warehouse.svg",
+   "alt": "24〜48時間のエコノミー特急便",
+   "eta": "24〜48時間",
+   "points": "最安の料金\n大量発送に最適"
+  },
+  {
+   "icon": "Store",
+   "title": "法人代理店",
+   "href": "/#contact",
+   "desc": "店舗・企業向け配送ソリューション：取扱量に応じた割引と明確な請求精算。",
+   "imgs": "/banner/storefront.svg\n/banner/warehouse.svg",
+   "alt": "Swift247 法人代理店",
+   "eta": "契約ベース",
+   "points": "取扱量割引\n月次精算"
+  }
+ ],
+ "steps": [
+  {
+   "title": "ステップ1",
+   "text": "アカウントに登録またはログインします。"
+  },
+  {
+   "title": "ステップ2",
+   "text": "4つのサービスから1つを選びます。"
+  },
+  {
+   "title": "ステップ3",
+   "text": "「次へ」を押して残りの手順を完了します。"
+  }
+ ],
+ "videos": [
+  {
+   "title": "Vietjet Air アプリで航空券を予約する方法",
+   "url": "https://www.youtube.com/shorts/RnLvMLPpsjA",
+   "desc": "Vietjet Air アプリでの航空券予約手順（ショート動画）。",
+   "date": ""
+  },
+  {
+   "title": "Vietjet Air 公式サイトでの航空券予約方法",
+   "url": "https://www.youtube.com/watch?v=6CBfogrSeWQ",
+   "desc": "新しいデザインの vietjetair.com で便を選び、情報を入力して支払うまでの手順。",
+   "date": ""
+  },
+  {
+   "title": "スマホで Vietjet Air のオンラインチェックイン",
+   "url": "https://www.youtube.com/watch?v=r4LD2N06PKo",
+   "desc": "スマートフォンからオンラインチェックインして、空港での待ち時間を節約。",
+   "date": ""
+  },
+  {
+   "title": "はじめての Vietjet 搭乗ガイド",
+   "url": "https://www.youtube.com/watch?v=6nd6g4O0XgA",
+   "desc": "はじめて Vietjet に乗る前に知っておきたい規定と手続き。",
+   "date": ""
+  },
+  {
+   "title": "Vietjet Air オンラインチェックイン手順（英語・2026年版）",
+   "url": "https://www.youtube.com/watch?v=FWMbFe9I7lY",
+   "desc": "2026年版の英語ガイド：オンラインチェックインと搭乗券の取得。",
+   "date": ""
+  }
+ ],
+ "reviews": [
+  {
+   "name": "お客様A",
+   "date": "2026年2月3日",
+   "text": "配送がとても速く、値上げもなく、特典も充実しています。\nこれからも利用します。",
+   "img": ""
+  },
+  {
+   "name": "お客様B",
+   "date": "2026年3月10日",
+   "text": "配送状況の追跡がとても便利で、ドライバーもとても親切でした。",
+   "img": ""
+  }
+ ],
+ "partners": [
+  {
+   "name": "HDBank",
+   "logo": ""
+  },
+  {
+   "name": "Vietjet Air",
+   "logo": ""
+  },
+  {
+   "name": "Grab",
+   "logo": ""
+  },
+  {
+   "name": "EMS",
+   "logo": ""
+  },
+  {
+   "name": "AhaMove",
+   "logo": ""
+  }
+ ],
+ "footerLinks": [
+  {
+   "label": "料金",
+   "href": "/#calc"
+  },
+  {
+   "label": "配送の流れ",
+   "href": "/p/shipping-process"
+  },
+  {
+   "label": "禁制品",
+   "href": "/p/prohibited-items"
+  },
+  {
+   "label": "補償ポリシー",
+   "href": "/p/compensation-policy"
+  },
+  {
+   "label": "利用規約",
+   "href": "/p/terms-of-use"
+  },
+  {
+   "label": "プライバシーポリシー",
+   "href": "/p/privacy-policy"
+  },
+  {
+   "label": "よくあるご質問",
+   "href": "/cau-hoi-thuong-gap"
+  }
+ ],
+ "rates": [
+  {
+   "name": "超特急（6時間以内）",
+   "base": "45000",
+   "perKg": "12000",
+   "eta": "6時間以内にお届け"
+  },
+  {
+   "name": "特急（24時間以内）",
+   "base": "32000",
+   "perKg": "9000",
+   "eta": "24時間以内にお届け"
+  },
+  {
+   "name": "エコノミー特急（24〜48時間）",
+   "base": "25000",
+   "perKg": "6000",
+   "eta": "24〜48時間でお届け"
+  }
+ ],
+ "faq": [
+  {
+   "q": "荷物の追跡方法は？",
+   "a": "トップページ上部の「荷物を追跡」欄に追跡番号を入力してください。"
+  },
+  {
+   "q": "配送にはどれくらいかかりますか？",
+   "a": "サービスにより異なります：6時間以内、24時間以内、または24〜48時間です。"
+  },
+  {
+   "q": "送れない品物はありますか？",
+   "a": "フッターの「禁制品」をご確認ください。"
+  }
+ ],
+ "modes": [
+  {
+   "icon": "DoorOpen",
+   "title": "自宅集荷・自宅配達",
+   "text": "自宅で集荷、自宅へ配達。",
+   "detail": "配達員がご自宅で集荷し、受取人に直接手渡しします。営業所へ行く必要はありません。",
+   "points": "おすすめ：急ぎの荷物、書類、外出が難しい方\n市街地では30〜60分以内に集荷\n配達員の位置をリアルタイムで確認"
+  },
+  {
+   "icon": "Home",
+   "title": "自宅集荷・営業所受取",
+   "text": "自宅で集荷、営業所で受取。",
+   "detail": "配達員がご自宅で集荷し、受取人は最寄りの営業所で受け取ります。",
+   "points": "おすすめ：不在がちな方、受取時間を選びたい方\n自宅配達よりお得\n営業所で最大3日間無料保管"
+  },
+  {
+   "icon": "Route",
+   "title": "営業所持込・営業所受取",
+   "text": "営業所に持込、営業所で受取。",
+   "detail": "営業所に荷物をお持ち込みいただき、受取人は到着地の営業所で受け取ります。",
+   "points": "おすすめ：大量発送の店舗、急ぎでない荷物\n4つの方法の中で最安料金\n窓口で梱包・計量が可能"
+  },
+  {
+   "icon": "MapPin",
+   "title": "営業所持込・自宅配達",
+   "text": "営業所に持込、自宅へ配達。",
+   "detail": "営業所に荷物をお持ち込みいただくと、Swift247が受取人のご自宅までお届けします。",
+   "points": "おすすめ：ギフト、外出ついでの発送\n集荷を待つ必要なし\n手渡し配達・代金引換に対応"
+  }
+ ]
+}
